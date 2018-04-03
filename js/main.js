@@ -1,1 +1,4 @@
-alert("hello");
+
+function annoy(){
+  alert("hello");
+}
